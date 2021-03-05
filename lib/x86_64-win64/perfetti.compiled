@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\Lazarus\fpc\bin\x86_64-win64\fpc.exe" Date="1381799272"/>
+  <Params Value=" -MObjFPC -Scghi -Cro -O1 -g -gl -l -vewnhipbq -FiC:\NuovoSviluppo\perfetti\lib\x86_64-win64 -FuC:\NuovoSviluppo\perfetti\ -FUC:\NuovoSviluppo\perfetti\lib\x86_64-win64\ -FEC:\NuovoSviluppo\perfetti\ -oC:\NuovoSviluppo\perfetti\perfetti.exe perfetti.pas"/>
+  <Complete Value="False"/>
+</CONFIG>

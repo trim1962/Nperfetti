@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Count="1" Active="Release">
+      <Item1 Name="Release">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <PathDelim Value="\"/>
+          <Target>
+            <Filename Value="Nperfetti"/>
+          </Target>
+          <SearchPaths>
+            <IncludeFiles Value="$(ProjOutDir)"/>
+            <OtherUnitFiles Value="..\StampaTex;..\MytypeFiles;..\Mymath"/>
+            <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+          </SearchPaths>
+          <Parsing>
+            <Style Value="1"/>
+          </Parsing>
+          <CodeGeneration>
+            <SmartLinkUnit Value="True"/>
+            <Optimizations>
+              <OptimizationLevel Value="4"/>
+            </Optimizations>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <GenerateDebugInfo Value="False"/>
+            </Debugging>
+            <LinkSmart Value="True"/>
+          </Linking>
+          <Other>
+            <Verbosity>
+              <ShowCompProc Value="True"/>
+            </Verbosity>
+          </Other>
+        </CompilerOptions>
+      </Item1>
+    </BuildModes>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="Nperfetti.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="46"/>
+        <CursorPos X="75" Y="58"/>
+        <UsageCount Value="27"/>
+        <Bookmarks Count="1">
+          <Item0 Y="27" ID="9"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mytype.pas"/>
+        <UnitName Value="Mytype"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="26" Y="8"/>
+        <UsageCount Value="26"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="mymath.pas"/>
+        <UnitName Value="MyMath"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="15" Y="39"/>
+        <UsageCount Value="26"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="miotype.pas"/>
+        <UnitName Value="MioType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="12" Y="7"/>
+        <UsageCount Value="9"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\Lazarus\fpcsrc\packages\chm\src\chmfiftimain.pas"/>
+        <UnitName Value="chmFiftiMain"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="stampa.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="157"/>
+        <CursorPos X="6" Y="163"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\Collatz\miotype.pas"/>
+        <UnitName Value="MioType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="24" Y="10"/>
+        <UsageCount Value="9"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\Collatz\cicliCollatz1.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\StampaTex\stampa.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="159"/>
+        <CursorPos X="98" Y="167"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\MytypeFiles\mytype.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Mytype"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="9"/>
+        <CursorPos X="23" Y="18"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\Mymath\mymath.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyMath"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit10>
+    </Units>
+    <JumpHistory Count="19" HistoryIndex="18">
+      <Position1>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="33" Column="32" TopLine="31"/>
+      </Position1>
+      <Position2>
+        <Filename Value="..\MytypeFiles\mytype.pas"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="28" Column="3" TopLine="51"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="6" Column="4"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\StampaTex\stampa.pas"/>
+        <Caret Line="8" Column="12"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\MytypeFiles\mytype.pas"/>
+        <Caret Line="22" TopLine="9"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="9" Column="49" TopLine="2"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="27" Column="11" TopLine="22"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="45" TopLine="38"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="55" Column="89" TopLine="45"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="58" Column="55" TopLine="50"/>
+      </Position11>
+      <Position12>
+        <Filename Value="..\StampaTex\stampa.pas"/>
+        <Caret Line="167" Column="79" TopLine="160"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\StampaTex\stampa.pas"/>
+        <Caret Line="24" Column="79" TopLine="17"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="46" Column="67" TopLine="40"/>
+      </Position14>
+      <Position15>
+        <Filename Value="..\StampaTex\stampa.pas"/>
+        <Caret Line="157" Column="11" TopLine="157"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="46" Column="76" TopLine="42"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="58" Column="77" TopLine="46"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Nperfetti.pas"/>
+        <Caret Line="46" Column="74" TopLine="39"/>
+      </Position18>
+      <Position19>
+        <Filename Value="..\StampaTex\stampa.pas"/>
+        <Caret Line="176" Column="15" TopLine="163"/>
+      </Position19>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
